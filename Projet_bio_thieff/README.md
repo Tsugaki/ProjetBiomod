@@ -16,4 +16,4 @@ data_huge
 
 Puis les mettre dans le dossier "data".
 
-A la ligne 113, remplacer le fichier csv par celui souhaité.
+A la ligne 108, remplacer le fichier csv par celui souhaité.
