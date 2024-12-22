@@ -14,6 +14,6 @@ data_medium
 data_large
 data_huge
 
-Puis les mettre dans le dossier "input".
+Puis les mettre dans le dossier "data".
 
 A la ligne 113, remplacer le fichier csv par celui souhaité.
