@@ -3,7 +3,7 @@ Comme librairies on utilise : pandas (pour les dataframe et importer les csv), e
 
 Le code va permettre de générer un graphique à partir d'un fichier csv.
 
-Le code va d'abord trier le fichier csv, puis faire jsp quoi
+Le code va d'abord récupérer les valeurs d'un fichier csv, puis les trier, garder les valeurs importantes et ordonner les valeurs dans un graphique.
 
 Les consignes :
 Il va falloir télécherger tout le fichier zip et le décompresser, renommer les fichiers csv comme :
